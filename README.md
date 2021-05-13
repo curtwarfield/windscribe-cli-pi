@@ -1,2 +1,2 @@
 # windscribe-cli-pi
-Automate the installation of the Windscribe CLI script.
+Automate the installation and configuration of the Windscribe CLI script.
